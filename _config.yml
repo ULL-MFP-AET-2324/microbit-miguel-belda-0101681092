@@ -5,9 +5,9 @@ makecode:
 theme: jekyll-theme-cayman
 asignatura: Aprendizaje y enseñanza de la tecnología
 lista-de-la-compra:
-- papas
-- tomates
-- huevos
+ - papas
+ - tomates
+ - huevos
 include:
   - assets
   - README.md
